@@ -2,7 +2,7 @@
 
 ## Description
 
-bbvk is small util designed to generate the plonk verification key for the custom trusted setup.
+bbvk is a small util designed to generate the plonk verification keys for the custom trusted setup.
 
 ## Installation
 
