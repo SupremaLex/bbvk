@@ -1,5 +1,9 @@
 # bbvk
 
+## Description
+
+bbvk is small util used to generate the plonk verification key for the custom trusted setup
+
 ## Installation
 
 ```bash
