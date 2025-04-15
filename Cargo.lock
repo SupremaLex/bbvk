@@ -365,6 +365,17 @@ dependencies = [
 ]
 
 [[package]]
+name = "bbvk"
+version = "0.1.0"
+dependencies = [
+ "hex",
+ "noir_rs",
+ "serde",
+ "serde_json",
+ "swift-bridge",
+]
+
+[[package]]
 name = "bincode"
 version = "1.3.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -2846,20 +2857,6 @@ dependencies = [
  "quote",
  "swift-bridge-ir",
  "syn 1.0.109",
-]
-
-[[package]]
-name = "swoirenberg"
-version = "1.0.0-beta.3-2"
-dependencies = [
- "hex",
- "noir_rs",
- "regex",
- "serde",
- "serde_json",
- "sha2",
- "swift-bridge",
- "swift-bridge-build",
 ]
 
 [[package]]
